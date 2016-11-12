@@ -1,0 +1,12 @@
+{
+  "name"         : "node-web-Scraping",
+  "version"      : "0.0.1",
+  "description"  : "Scraping the Web With Node.js",
+  "main"         : "app.js",
+  "author"       : "Erivera",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest
+  }
+}
