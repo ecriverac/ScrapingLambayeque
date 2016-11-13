@@ -8,7 +8,7 @@ app.get('/', function(req, res){
 	//res.send('Hola Mundo!');
 
 	
-	url = 'http://www.regionlambayeque.gob.pe/web/acceso-informacion?tinfo=T&cate_id=9709ADPORTAL&grup_id=970902ADPORTAL&pass=NA==&pass=NA==&pass=NA==';
+	url = 'https://www.medellin.gov.co/irj/portal/medellin?NavigationTarget=navurl://dea8ca8796a2f10f2642b5ff7065efce';
 	//
 	request(url, function(error, response, html){
 		//si hay error
